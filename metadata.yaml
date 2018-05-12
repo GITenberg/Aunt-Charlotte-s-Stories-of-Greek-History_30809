@@ -1,0 +1,32 @@
+_repo: Aunt-Charlotte-s-Stories-of-Greek-History_30809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2009-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- !lcc 'DF'
+- !lcc 'BL'
+- !lcsh 'Greece -- History -- Juvenile literature'
+title: Aunt Charlotte's Stories of Greek History
+url: http://www.gutenberg.org/ebooks/30809
